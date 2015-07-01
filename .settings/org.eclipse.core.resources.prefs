@@ -1,4 +1,7 @@
 eclipse.preferences.version=1
+encoding//srcpy/mumutest/decodertest1.py=utf-8
+encoding//srcpy/mumutest/decorator2.py=utf-8
+encoding//srcpy/mumutest/decorator3.py=utf-8
 encoding//srcpy/mumutest/decoratortest.py=utf-8
 encoding//srcpy/mumutest/filtertest.py=utf-8
 encoding//srcpy/mumutest/maptest.py=utf-8
